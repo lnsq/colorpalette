@@ -48,3 +48,10 @@ The concept is the same as above, but you can return just colors found in the Ma
 ```
 colorpalette -t image.jpg
 ```
+
+## Examples
+The following is an example of the output that shows when you call for the image palette.
+![The Kiss](https://github.com/lnsq/colorpalette/blob/main/examples/example_1.PNG)
+
+The following is an example of the output with the Matplotlib palette.
+![The Kiss](https://github.com/lnsq/colorpalette/blob/main/examples/example_2.PNG)
